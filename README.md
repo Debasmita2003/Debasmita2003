@@ -87,11 +87,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Debasmita2003/Debasmita2003/output/github-contribution-grid-snake-dark.svg">
-
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
 
