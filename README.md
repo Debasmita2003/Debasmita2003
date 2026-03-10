@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-6d2cbd75-fdc3-44b5-90d1-d65d2e4a7f7f.gif">
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🚀 Passionate **Full Stack Developer**  
 
@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
 
-# 🧠 Developer Badges
+## 🧠 Developer Badges
 
 <p align="center">
 
@@ -54,7 +54,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284110-1c7d2b88-93bb-4eaa-9f89-63f1d6d6bff1.gif">
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 🚀 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -75,7 +75,7 @@
 ### 🗄 Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
