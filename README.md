@@ -20,6 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -40,6 +41,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
 
+
 ## 🧠 Developer Badges
 
 <p align="center">
@@ -53,6 +55,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284110-1c7d2b88-93bb-4eaa-9f89-63f1d6d6bff1.gif">
+
 
 ## 🛠 Tech Stack
 
@@ -75,6 +78,10 @@
 ### 🗄 Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
+### 🧰 Tools
+![Postman](https://skillicons.dev/icons?i=postman)
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -90,6 +97,5 @@
 <img src="https://raw.githubusercontent.com/Debasmita2003/Debasmita2003/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2afadf,50:7928ca,100:ff0080&section=footer"/>
