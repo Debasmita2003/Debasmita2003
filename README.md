@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-6d2cbd75-fdc3-44b5-90d1-d65d2e4a7f7f.gif">
 
-## 👩‍💻 About Me
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
 🚀 Passionate **Full Stack Developer**  
 
