@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Futuristic+Web+Experiences;Always+Learning+New+Technologies"/>
 
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-6d2cbd75-fdc3-44b5-90d1-d65d2e4a7f7f.gif">
+</p><br>
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
+
+<img align="right" alt="About Me GIF" width="350" src="https://s1.ezgif.com/tmp/ezgif-1515bdfafdc0eb84.gif">
 
 🚀 Passionate **Full Stack Developer**  
 
@@ -18,8 +18,7 @@
 
 🌱 Currently exploring **Advanced Full Stack Development**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
-
+<br>
 
 ## 🌐 Connect With Me
 
@@ -39,8 +38,7 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
-
+<br>
 
 ## 🧠 Developer Badges
 
@@ -54,8 +52,7 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284110-1c7d2b88-93bb-4eaa-9f89-63f1d6d6bff1.gif">
-
+<br>
 
 ## 🛠 Tech Stack
 
@@ -85,19 +82,20 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 </p>
 
+<br>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debasmita2003&theme=tokyonight&hide_border=true"/>
 
-
+<br>
 
 ## <img src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" width="30"/> Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Debasmita2003/Debasmita2003/output/github-contribution-grid-snake-dark.svg">
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2afadf,50:7928ca,100:ff0080&section=footer"/>
