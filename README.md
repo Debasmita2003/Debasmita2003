@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
-<img align="right" alt="About Me GIF" width="350" src="https://s1.ezgif.com/tmp/ezgif-1515bdfafdc0eb84.gif">
+<img align="right" width="400" src="./assets/Coder.gif" alt="Coding GIF">
 
 🚀 Passionate **Full Stack Developer**  
 
