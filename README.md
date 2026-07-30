@@ -60,9 +60,11 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
+<p>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
+</p>
 
 ### 🎨 Frontend
 ![React](https://skillicons.dev/icons?i=react)
@@ -81,7 +83,7 @@
 
 ### 🧰 Tools
 ![Postman](https://skillicons.dev/icons?i=postman)
-
+</p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> GitHub Streak
 
@@ -89,10 +91,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debasmita2003&theme=tokyonight&hide_border=true"/>
 
-</p>
 
 
-## 🐍 Contribution Snake
+## <img src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" width="30"/> Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Debasmita2003/Debasmita2003/output/github-contribution-grid-snake-dark.svg">
