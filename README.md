@@ -18,6 +18,8 @@
 
 🌱 Currently exploring **Advanced Full Stack Development**
 
+🎯 Goal **Build scalable and impactful products**
+
 <br>
 
 ## 🌐 Connect With Me
