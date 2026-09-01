@@ -77,6 +77,7 @@
 ### 🗄 Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🧰 Tools
 ![Postman](https://skillicons.dev/icons?i=postman)
