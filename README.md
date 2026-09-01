@@ -80,6 +80,7 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🧰 Tools
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 </p>
 
