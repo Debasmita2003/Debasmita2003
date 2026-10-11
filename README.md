@@ -58,6 +58,8 @@
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### 🚀 Languages
 <p>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
@@ -85,6 +87,8 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 </p>
+
+</div>
 
 <br>
 
