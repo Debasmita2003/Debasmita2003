@@ -87,6 +87,7 @@
 ### 🧰 Tools
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 </p>
 
 </div>
