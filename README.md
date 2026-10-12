@@ -73,6 +73,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
 
 ### ⚙ Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
