@@ -11,15 +11,17 @@
 
 <img align="right" width="400" src="./assets/Coder.gif" alt="Coding GIF">
 
-🚀 Passionate **Full Stack Developer**  
+🚀 Passionate **Full Stack Developer** building modern web applications
 
-💡 Interested in **AI + Web Technologies** 
+💡 Exploring **AI, intelligent applications & web technologies**
 
-⚡ Love creating **modern and futuristic interfaces**  
+🎨 Love crafting **sleek, interactive & futuristic interfaces**
 
-🌱 Currently exploring **Advanced Full Stack Development**
+🌱 Continuously improving my **full-stack development skills**
 
-🎯 Goal **Build scalable and impactful products**
+🛠️ Enjoy turning creative ideas into **practical digital solutions**
+
+🎯 Aspiring to build **scalable products with real-world impact**
 
 <br>
 
