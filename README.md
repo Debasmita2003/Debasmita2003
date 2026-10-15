@@ -49,11 +49,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Database-PostgreSQL-green?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Framework-NextJS-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Frontend-React-60A5FA?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-NodeJS-4ADE80?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-A78BFA?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framework-NextJS-818CF8?style=for-the-badge&logo=next.js&logoColor=white"/>
 
 </p>
 
