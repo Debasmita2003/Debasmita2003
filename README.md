@@ -19,7 +19,7 @@
 
 🌱 Continuously improving my **full-stack development skills**
 
-🛠️ Enjoy turning creative ideas into **practical digital solutions**
+🛠️ Enjoy turning creative ideas into **digital solutions**
 
 🎯 Aspiring to build **scalable products with real-world impact**
 
