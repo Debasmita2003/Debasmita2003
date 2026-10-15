@@ -91,6 +91,8 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
+![Figma](https://skillicons.dev/icons?i=figma)
+
 </p>
 
 </div>
