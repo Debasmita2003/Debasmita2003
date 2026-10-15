@@ -13,7 +13,7 @@
 
 🚀 Passionate **Full Stack Developer**
 
-💡 Exploring **AI, intelligent applications & web technologies**
+💡 Exploring **AI & web technologies**
 
 🎨 Love crafting **sleek, interactive & futuristic interfaces**
 
