@@ -11,7 +11,7 @@
 
 <img align="right" width="400" src="./assets/Coder.gif" alt="Coding GIF">
 
-🚀 Passionate **Full Stack Developer** building modern web applications
+🚀 Passionate **Full Stack Developer**
 
 💡 Exploring **AI, intelligent applications & web technologies**
 
